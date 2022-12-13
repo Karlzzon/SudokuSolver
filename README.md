@@ -7,6 +7,8 @@ SudokuSolver created during the course <a href=https://cs.lth.se/edaa30/> EDAA30
 
 ![test](https://github.com/Karlzzon/SudokuSolver/blob/main/sudoku.png)
 
+<img src=https://github.com/Karlzzon/SudokuSolver/blob/main/sudoku.png width="128"/>
+
 <br>
 Authors: 
 <br>
