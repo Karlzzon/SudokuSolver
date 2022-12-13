@@ -1,5 +1,5 @@
 # SudokuSolver
-SudokuSolver created during the course <a href=https://cs.lth.se/edaa30/> EDAA30 </a><br>
+SudokuSolver created during the course <a href=https://cs.lth.se/edaa30/> EDAA30: Programmering i Java - fortsättningskurs</a><br>
 
 <br>
 <b> Image of Sudoku game </b>
